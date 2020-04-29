@@ -1,0 +1,52 @@
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.exe
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.pdb
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.dll
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.dll
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.pdb
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.xml
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.xml
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Form1.resources
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Properties.Resources.resources
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csproj.GenerateResource.Cache
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.exe
+c:\users\eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.pdb
+C:\Users\Eugene\documents\visual studio 2010\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csprojResolveAssemblyReference.cache
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.exe
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.pdb
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.exe
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.pdb
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.dll
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.dll
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.pdb
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.xml
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.xml
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csprojResolveAssemblyReference.cache
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Form1.resources
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Properties.Resources.resources
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csproj.GenerateResource.Cache
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.exe
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.pdb
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.exe
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.pdb
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.dll
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.dll
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.pdb
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.xml
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.xml
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csprojResolveAssemblyReference.cache
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Form1.resources
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Properties.Resources.resources
+D:\Учеба\Компьютерная графика\Practice and Manuals 2016\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\x86\Debug\TomogrammVisualizer.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.xml

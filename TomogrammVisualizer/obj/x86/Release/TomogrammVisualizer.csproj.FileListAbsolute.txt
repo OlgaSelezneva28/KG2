@@ -1,0 +1,12 @@
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\TomogrammVisualizer.exe
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\TomogrammVisualizer.pdb
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\OpenTK.dll
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\OpenTK.GLControl.dll
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\OpenTK.pdb
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\OpenTK.xml
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\bin\Release\OpenTK.GLControl.xml
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Release\TomogrammVisualizer.Form1.resources
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Release\TomogrammVisualizer.Properties.Resources.resources
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Release\TomogrammVisualizer.csproj.GenerateResource.Cache
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Release\TomogrammVisualizer.exe
+D:\Computer Graphics Cources\Courses\Computer Graphics\Basic RU\Practice and Manuals 2016\TomogrammVisualizer\TomogrammVisualizer_VS2010\TomogrammVisualizer\obj\x86\Release\TomogrammVisualizer.pdb
